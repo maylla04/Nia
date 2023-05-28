@@ -5,7 +5,8 @@ export default function Card(){
               <a href="" 
               className="bg-white/5 p-1 rounded-md flex flex-col items-center gap-1 hover:bg-white/10">
               <h1 className="font-bold text-2xl mt-2">Sobre o projeto</h1>
-              <h2 className="mt-4 ml-3 mr-2">Aqui fica sobre o projeto, o que é o projeto, um resumo basico</h2>
+              <h2 className="mt-4 ml-3 mr-2">Este projeto tem o intuito de Informar e Auxiliar os estudantes do IFMS 
+                  Campus Nova Andradina sobre a cultura Afro, o que é Racismo e Denunciar o racismo</h2>
               </a>
 
 
