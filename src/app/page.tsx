@@ -1,5 +1,5 @@
 import Card from './componentes/Card';
-import {Footer} from './componentes/Footer'
+import Footer from './componentes/Footer'
 import Header from './componentes/Header';
 import Navbar from './componentes/Navbar';
 
