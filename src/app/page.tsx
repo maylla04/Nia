@@ -14,7 +14,7 @@ export default function Home(){
 
       <Navbar/>
         <main className="flex-1 p-6">
-
+        <div className='border border-zinc-800'> <img src='nia.png'/></div>
 
             <h1 className="text-bold text-3xl mt-10">Conheça o meu site!</h1>
 
