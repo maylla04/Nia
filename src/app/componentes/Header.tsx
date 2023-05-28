@@ -6,7 +6,7 @@ export default function Header(){
         <div>
         <header className="bg-zinc-900 border-b border-zinc-800 px-2 py-2 flex items-center justify-between">
         <div className="flex items-center gap-3">
-        <img src="/login.jpg" width={70} height={70} alt="Capa do album wings"/>
+        <img src="/login.png" width={70} height={70} alt="Capa do site"/>
           <div className="flex flex-col gap-1">
             <a href="#" className="font-normal hover:text-zinc-500">Nia</a>
             <a href="#" className="text-xs text-zinc-400 hover:text-zinc-100">Descobrindo a riqueza do legado Africano</a>
