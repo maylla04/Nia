@@ -11,7 +11,7 @@ export default function Racismo(){
       <Navbar/>
         <main className="flex-1 p-6">
         <div className='border border-zinc-800'> <img src='2.png'/></div>  
-        <Card2/>
+        <CardTwo/>
 </main>
         
       </div>
