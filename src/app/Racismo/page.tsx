@@ -1,4 +1,4 @@
-import CardTwo from "../componentes/CardTwo";
+import { Card2 } from "../componentes/Card2";
 import { Footer } from "../componentes/Footer";
 import Header from "../componentes/Header";
 import Navbar from "../componentes/Navbar";
@@ -10,8 +10,8 @@ export default function Racismo(){
       <div className="flex flex-1">
       <Navbar/>
         <main className="flex-1 p-6">
-            <center><h2 className="font-semibold text-2xl mt-10">Voce sabe o que é racismo?</h2></center>
-        <CardTwo/>
+        <div className='border border-zinc-800'> <img src='2.png'/></div>  
+        <Card2/>
 </main>
         
       </div>
