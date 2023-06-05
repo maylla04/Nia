@@ -10,7 +10,7 @@ export default function Denuncie(){
       <div className="flex flex-1">
 
       <Navbar/>
-        <main className="flex-1 p-6">
+        <main className="grid grid-cols-2 gap-1 mt-6">
         <form className="" method="post" encType="multipart/form-data">
             <h1 className="ml-10 font-semibold text-2xl mt-5 mb-5">Formulário de Denúncia:</h1>
             
@@ -40,8 +40,6 @@ export default function Denuncie(){
             <input type="submit" placeholder="Enviar" className="bg-zinc-900 w-80 h-14 mt-10 ml-10 "/>
             </form> 
             <img className="mt-10"  src="/denuncie.png" alt="Logo"/>
-           
-           
            
 </main>
         
